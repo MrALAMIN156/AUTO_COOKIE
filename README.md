@@ -54,6 +54,6 @@ This is warking auto cookie
 
 - `cd AUTO_COOKIE`
 
-- python cookie-warking.py`
+- python cookie-warking.py
 
 # Thank You For Your Support ❤️😘
